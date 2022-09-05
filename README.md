@@ -12,21 +12,13 @@ Foi desenvolvido uma aplicação em react utilizando a pókeAPI para trazer info
 * `React Testing Library`
 
 ##### <h2 id="mapeamento">REALIZAÇÃO DOS TESTES </h2>
-<details>
-  <summary><strong>:memo: Habilidades</strong></summary><br />
 
-  Neste projeto, apliquei capacidade de:
+* `Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;`
+* `Simular eventos com a React-Testing-Library em testes automatizados;`
+* `Testar fluxos lógicos assíncronos com a React-Testing-Library;`
+* `Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;`
+* `Testar inputs.`
 
-  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
-
-  * Simular eventos com a React-Testing-Library em testes automatizados;
-
-  * Testar fluxos lógicos assíncronos com a React-Testing-Library;
-
-  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
-
-  * Testar inputs.
-</details>
 ##### <h2 id="mapeamento">Mapeamento da aplicação </h2>
 
 <ol>
