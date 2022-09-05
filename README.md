@@ -5,13 +5,13 @@ Foi desenvolvido uma aplicação em react utilizando a pókeAPI para trazer info
 
 ##### <h2 id="tecnologias-utilizadas">Tecnologias utilizadas:</h2>
 
-* `HTML5`
-* `CSS3`
-* `Javascript (ECMAScript 2018)`
+* `Javascript`
 * `React`
 * `React Testing Library`
+* `Jest`
 
 ##### <h2 id="mapeamento">REALIZAÇÃO DOS TESTES </h2>
+###### Verificando minha capacidade de:
 
 * `Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;`
 * `Simular eventos com a React-Testing-Library em testes automatizados;`
