@@ -37,6 +37,7 @@ Foi desenvolvido uma aplicação em react utilizando a pókeAPI para trazer info
 
 <p>Nesta página são exibidas todos os pokemons que foram favoritados</p>
 </ol>
+
 ### Conclusão:
  
 <p>Tendo em vista a importância de desenvolver aplicações seguras, esse foi meu primeiro projeto utilizando jest e RTL afim de me aprofundar nos conhecimentos que deverão ser intensamente presentes durante minha tragetória como desenvolvedora, foi bastante desafiador lidar com testes, era algo que estava fora do meu escopo, com certeza será um acumulo de um grande aprendizado iniciar meu desenvolvimento com testes, buscarei sempre melhorar e entregar aplicações sempre com qualidade. </p>
