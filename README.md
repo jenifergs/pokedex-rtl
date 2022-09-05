@@ -11,6 +11,22 @@ Foi desenvolvido uma aplicação em react utilizando a pókeAPI para trazer info
 * `React`
 * `React Testing Library`
 
+##### <h2 id="mapeamento">REALIZAÇÃO DOS TESTES </h2>
+<details>
+  <summary><strong>:memo: Habilidades</strong></summary><br />
+
+  Neste projeto, apliquei capacidade de:
+
+  * Utilizar os seletores (queries) da React-Testing-Library em testes automatizados;
+
+  * Simular eventos com a React-Testing-Library em testes automatizados;
+
+  * Testar fluxos lógicos assíncronos com a React-Testing-Library;
+
+  * Escrever testes que permitam a refatoração da estrutura dos componentes da aplicação sem necessidade de serem alterados;
+
+  * Testar inputs.
+</details>
 ##### <h2 id="mapeamento">Mapeamento da aplicação </h2>
 
 <ol>
@@ -29,3 +45,8 @@ Foi desenvolvido uma aplicação em react utilizando a pókeAPI para trazer info
 
 <p>Nesta página são exibidas todos os pokemons que foram favoritados</p>
 
+#### Conclusão:
+ 
+<p>Tendo em vista a importância de desenvolver aplicações seguras, esse foi meu primeiro projeto utilizando jest e RTL afim de me aprofundar nos conhecimentos que deverão ser intensamente presentes durante minha tragetória como desenvolvedora, foi bastante desafiador lidar com testes, era algo que estava fora do meu escopo, com certeza será um acumulo de um grande aprendizado iniciar meu desenvolvimento com testes, buscarei sempre melhorar e entregar aplicações sempre com qualidade. </p>
+  
+  Projeto feito com 💙 por Jenifer Gonçalves!
